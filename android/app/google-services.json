@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985165007111",
+    "project_id": "trial-b861f",
+    "storage_bucket": "trial-b861f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985165007111:android:beee170eba7b4c9e1edda2",
+        "android_client_info": {
+          "package_name": "com.example.speso_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3Dqjrx7eBdbEf174tqnB3g555PLozJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985165007111:android:b83899c54d6e4bef1edda2",
+        "android_client_info": {
+          "package_name": "com.example.speso_ast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3Dqjrx7eBdbEf174tqnB3g555PLozJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
